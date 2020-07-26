@@ -1,0 +1,22 @@
+start
+3/12/2018 5:40:41 PM page zero
+3/12/2018 5:40:43 PM page nine
+3/12/2018 5:40:44 PM page eleven
+3/12/2018 5:40:45 PM page twelve
+3/12/2018 5:40:46 PM page nine
+3/12/2018 5:40:47 PM page eight
+3/12/2018 5:40:48 PM page seven
+3/12/2018 5:40:50 PM page six
+3/12/2018 5:40:51 PM page five
+3/12/2018 5:40:52 PM page four
+3/12/2018 5:40:52 PM page two
+3/12/2018 5:40:53 PM page six
+3/12/2018 5:40:53 PM page eight
+3/12/2018 5:40:54 PM page nine
+3/12/2018 5:40:54 PM page ten
+3/12/2018 5:40:56 PM page28-2.mp3
+3/12/2018 5:40:57 PM page28-2.mp3
+3/12/2018 5:40:59 PM page28-6.mp3
+3/12/2018 5:41:02 PM page28-6.mp3
+3/12/2018 5:41:04 PM page28-2.mp3
+end

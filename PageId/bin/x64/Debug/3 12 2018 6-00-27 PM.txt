@@ -1,0 +1,24 @@
+start
+3/12/2018 6:00:27 PM page zero
+3/12/2018 6:00:28 PM page nine
+3/12/2018 6:00:29 PM page ten
+3/12/2018 6:00:31 PM page28-2.mp3
+3/12/2018 6:00:33 PM page28-2.mp3
+3/12/2018 6:00:33 PM page28-2.mp3
+3/12/2018 6:00:34 PM page28-6.mp3
+3/12/2018 6:00:35 PM page28-2.mp3
+3/12/2018 6:00:37 PM page28-6.mp3
+3/12/2018 6:00:38 PM page28-2.mp3
+3/12/2018 6:00:38 PM page28-2.mp3
+3/12/2018 6:00:39 PM page28-2.mp3
+3/12/2018 6:00:40 PM page28-6.mp3
+3/12/2018 6:00:40 PM page28-6.mp3
+3/12/2018 6:00:41 PM highlighted-page-28-5.mp3
+3/12/2018 6:00:42 PM page28-5.mp3
+3/12/2018 6:00:43 PM highlighted-page-28-5.mp3
+3/12/2018 6:00:43 PM page28-5.mp3
+3/12/2018 6:00:44 PM page28-2.mp3
+3/12/2018 6:00:44 PM highlighted-page-28-5.mp3
+3/12/2018 6:00:44 PM page28-5.mp3
+3/12/2018 6:00:48 PM page28-7.mp3
+end
